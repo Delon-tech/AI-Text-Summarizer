@@ -1,6 +1,6 @@
 # 🧠 AI Text Summarizer
 
-AI Text Summarizer adalah aplikasi Python yang menggunakan teknologi pemrosesan bahasa alami (NLP) dari OpenAI GPT untuk merangkum teks secara otomatis dan efisien. Proyek ini dirancang untuk membantu pengguna memahami inti dari teks panjang dalam waktu singkat.
+AI Text Summarizer adalah aplikasi yang menggunakan teknologi pemrosesan bahasa alami (NLP) dari OpenAI GPT untuk merangkum teks secara otomatis dan efisien. Proyek ini dirancang untuk membantu pengguna memahami inti dari teks panjang dalam waktu singkat.
 
 ## 🚀 Fitur Utama
 
